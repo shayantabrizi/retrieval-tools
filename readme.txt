@@ -17,7 +17,7 @@ University	:	University of Tehran, Iran
 Disclaimer:
 We really appreciate bug reports and any suggestions for improving the algorithm. Please contact us via email at shayantabrizi [at] gmail [D.o.T] com.
 
-Some codes may be written by or based on codes of Ms. Marjan Azimi.
+Some codes may have been written by or have been based on codes of Ms. Marjan Azimi.
 
 usage:
 	See tutorial.pdf for the instructions on how to use the codes.
